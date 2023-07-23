@@ -68,6 +68,14 @@ We welcome contributions to this project. If you find any issues or have suggest
 When contributing, make sure to adhere to the coding and documentation standards followed in the project.
 
 ## Data
+DATA STRUCTURE- Single table
+
+Number OF RECORDS-1,074
+
+Number OF FIELDS-10
+
+DATE April 2022
+(Source: CB Insights & Crunchbase)
 
 ## License
 
